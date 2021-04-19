@@ -813,7 +813,6 @@ for $t=1,\ldots, n$
 \[
 \begin{array}{rcl}
 \mathbf{X}_{t\vert t-1}&=&\boldsymbol{\Phi}_t \mathbf{X}_{t-1\vert t-1} \\\\
-
 \mathbf{P}_{t\vert t-1}&=&\boldsymbol{\Phi}_t \mathbf{P}_{t-1\vert t-1} \boldsymbol{\Phi}_t^T + \mathbf{Q}_t.
 \end{array}
 \]
