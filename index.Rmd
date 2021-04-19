@@ -809,7 +809,9 @@ If $\mathbf{X}_{0\vert 0}$ and $\mathbf{P}_{0\vert 0}$ are known, then the Kalma
 for $t=1,\ldots, n$   
 
 1. Prediction step
-\[\begin{array}{rcl}
+
+\[
+\begin{array}{rcl}
 \mathbf{X}_{t\vert t-1}&=&\boldsymbol{\Phi}_t \mathbf{X}_{t-1\vert t-1} \\\\
 
 \mathbf{P}_{t\vert t-1}&=&\boldsymbol{\Phi}_t \mathbf{P}_{t-1\vert t-1} \boldsymbol{\Phi}_t^T + \mathbf{Q}_t.
