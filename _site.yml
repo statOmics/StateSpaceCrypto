@@ -8,7 +8,7 @@ navbar:
       href: index.html
   right:
     - icon: fa-github
-      href: https://github.com/statOmics/HDA2020
+      href: https://github.com/statOmics/StateSpaceCrypto
     - text: "statOmics"
       href: http://statomics.github.io/
 output:

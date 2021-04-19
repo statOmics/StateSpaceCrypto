@@ -1562,5 +1562,3 @@ Kalman Filter and Smoother
 
 
 ---
-
-# [statOmics](https://statomics.github.io) {-}
