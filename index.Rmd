@@ -12,6 +12,7 @@ output:
       number_sections: true
 ---
 
+This work is licensed under the [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0)
 
 # Introduction
 
@@ -36,7 +37,6 @@ All our teaching materials, methods, tools and analyses for papers are open sour
     - Brief intro and illustration only, by no means the current state of the art 
     - More advanced State Space Models required for hedging or predicting cryptocurrency data in practice.
 
-- This work is licensed under the [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0)
 
 <br /> 
 
@@ -1563,3 +1563,4 @@ Kalman Filter and Smoother
 
 
 ---
+
