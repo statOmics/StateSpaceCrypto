@@ -174,12 +174,6 @@ coinData <-  coinSymbols %>%
       mutate(date=as.Date(timestamp))
 ```
 
-There is currently an issue with the ETH data on 2021-04-20. It does not return an value for the opening price... So filter the data until 2021-04-19. 
-
-```{r} 
-coinData <- coinData %>% filter(date < as.Date("2021-04-20"))
-ndays <- nrow(coinData)
-```
 
 <br /> 
 
