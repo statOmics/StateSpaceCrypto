@@ -7,7 +7,7 @@ navbar:
     - icon: fa-home
       href: index.html
   right:
-    - icon: fa-github
+    - icon: fab fa-github
       href: https://github.com/statOmics/StateSpaceCrypto
     - text: "statOmics"
       href: http://statomics.github.io/
