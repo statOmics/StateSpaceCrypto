@@ -1236,6 +1236,10 @@ plotHedge <- coinData %>%
 plotHedge
 ```
 
+Note, that 
+- this example is for illustration purposes only. 
+- It show-cases time-varying regression with state space models
+- The data are modelled on the original price scale so the errors will probably be heteroscedastic. 
 
 ### Define state space model 
 
@@ -1562,6 +1566,11 @@ Kalman Filter and Smoother
 
 - The presentation is largely based on the methods in chapter 6 of R. Shumway and D. Stoffer (2017) Time Series Analysis and Its Applications With R Examples -  4th Edition, which is freely available on Prof. David Stoffer's website  https://www.stat.pitt.edu/stoffer/tsa4/tsa4.htm
 
+- I have not reviewed this code, but this might be helpfull to get started in Python: 
+
+    - State Space Models in Python: https://pykalman.github.io/
+
+    - Hedge ratio example in Python: https://www.quantstart.com/articles/Dynamic-Hedge-Ratio-Between-ETF-Pairs-Using-the-Kalman-Filter/
 
 ---
 
